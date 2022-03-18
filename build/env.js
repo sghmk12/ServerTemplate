@@ -1,0 +1,6 @@
+window.env = {
+  "GOOGLE_API_KEY": "AIzaSyBIGQnPzE0NOuN9KEKgBPpysD6ebb72gq8",
+  "API_KEY": "727f87180bfa8b9ecd4eb915553877316007e54330e82536804621e57851e7bef24f33da20bd6a17",
+  "DEV": "false",
+  "API_HOST": "127.0.0.1:5000"
+};
